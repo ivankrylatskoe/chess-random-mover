@@ -26,4 +26,4 @@ Use `--log` program argument to log sent and received UCI data.
 
 Contacts
 ---
-Fill free to contact me by ivankrylatskoe@gmail.com or by creating an issue.
+Fill free to contact me by email (ivankrylatskoe@gmail.com) or by creating an issue.
