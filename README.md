@@ -23,3 +23,7 @@ To build an executable from source, run `build.sh`. The file will appear in the 
 Options
 ---
 Use `--log` program argument to log sent and received UCI data.
+
+Contacts
+---
+Fill free to contact me by ivankrylatskoe@gmail.com or by creating an issue.
